@@ -1,0 +1,11 @@
+(Objective Function) b-vector: [20, 40, 8, 15]
+
+A-matrix: [[ [1.0, 0.0, 1.0, 1.0]], [ [0.0, 1.0, 1.0, 0.0]], [ [1.0, 1.0, 0.0, 0.0]], [ [0.0, 1.0, 1.0, 0.0]]]
+
+(Contraints) c-vector: [1.0, 1.0, 1.0, 1.0]
+
+(Variable Contraints) variable_constraints-vector: [1.0, 1.0, 1.0, 1.0]
+
+Eqin: [-1, -1, 1, 1]
+
+MinMax: [1]
